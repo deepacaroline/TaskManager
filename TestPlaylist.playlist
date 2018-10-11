@@ -1,0 +1,7 @@
+<Playlist Version="1.0">
+<Add Test="TaskManagerTest.UnitTest1.TestMethodAddTask" />
+<Add Test="TaskManagerTest.UnitTest1.TestMethodDeleteTask" />
+<Add Test="TaskManagerTest.UnitTest1.TestMethodUpdateTask" />
+<Add Test="TaskManagerTest.UnitTest1.TestMethodGetTask" />
+<Add Test="TaskManagerTest.UnitTest1.TestMethodGetTasks" />
+</Playlist>
